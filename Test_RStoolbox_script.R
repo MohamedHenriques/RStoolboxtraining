@@ -12,3 +12,5 @@ bplot<-ggplot(data=a, aes(x=b, y=a))+
 bplot
 
 write.table(a, file="DB_test.csv", sep=";", row.names = F)
+
+#' EDITED By PCardoso. Try to add a pull request
